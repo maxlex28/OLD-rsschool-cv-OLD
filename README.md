@@ -1,3 +1,1 @@
 # rsschool-cv
-
-# some text
