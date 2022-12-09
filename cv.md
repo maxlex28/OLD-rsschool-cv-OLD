@@ -90,6 +90,23 @@ services.
 
 ---
 
+## **EDUCATION**
+
+### _September 2002 — June 2007_
+
+### Belarussian State Economic University
+
+### _State administration_
+
+**Obtained the Bachelor Degree in "State Administration" (qualification awarded: "Economist-manager").**
+
+Profound study in the field of quantitative evaluation of qualitative performance in the
+national economy and particular industries with developing factor models.
+Diploma on "Forecasting Car Transport Development in the Republic of Belarus and
+Ways of Enhancing It".
+
+---
+
 ## **QUALIFICATIONS**
 
 ### Languages
@@ -108,22 +125,5 @@ services.
 - Communication, organisational and time management skills
 - Work in time pressure conditions
 - Courtesy and tolerance towards clients and the team
-
----
-
-## **EDUCATION**
-
-### _September 2002 — June 2007_
-
-### Belarussian State Economic University
-
-### _State administration_
-
-**Obtained the Bachelor Degree in "State Administration" (qualification awarded: "Economist-manager").**
-
-Profound study in the field of quantitative evaluation of qualitative performance in the
-national economy and particular industries with developing factor models.
-Diploma on "Forecasting Car Transport Development in the Republic of Belarus and
-Ways of Enhancing It".
 
 ---
