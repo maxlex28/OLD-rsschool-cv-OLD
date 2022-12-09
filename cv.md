@@ -127,3 +127,11 @@ Ways of Enhancing It".
 - Courtesy and tolerance towards clients and the team
 
 ---
+
+## **INTERESTS**
+
+- strong interest in data analysis (theory and practice);
+- music theory;
+- rock music;
+- cinematograhy (from artistic and technical aspects);
+- ping-pong
