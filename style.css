@@ -26,3 +26,24 @@ h5 {
   font: normal 1.25em Georgia, serif;
   line-height: 1.5em;
 }
+.pgContent {
+  width: 80%;
+  text-align: justify;
+  font: normal 1em Microsoft Sans Serif, sans-serif;
+  line-height: 1.5em;
+}
+.div1Company {
+  display: inline-block;
+  width: 50%;
+}
+.div1PgDuration {
+  display: inline-block;
+  float: right;
+  margin-right: 20%;
+  padding: 5px;
+  font: italic 1.25em Microsoft Sans Serif, sans-serif;
+  background-color: rgba(179, 187, 201, 0.5);
+}
+#objectivesPg {
+  font-style: italic;
+}
