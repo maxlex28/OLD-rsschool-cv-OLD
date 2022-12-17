@@ -1,9 +1,28 @@
 h1 {
-  color: blue;
-  background-color: yellow;
-  border: 1px solid black;
+  font: normal bold 2rem Georgia, serif;
+  text-align: center;
 }
 
-p {
-  color: red;
+h2 {
+  font: normal bold 1.5em Georgia, serif;
+  display: inline-block;
+  padding: 5px;
+  background-color: rgba(179, 187, 201, 0.75);
+}
+h3 {
+  font: normal bold 1.25em Georgia, serif;
+}
+h4 {
+  font: normal bold 1.15em Georgia, serif;
+}
+h5 {
+  font: normal bold 1em Georgia, serif;
+}
+
+.blockMyPhoto {
+  float: right;
+}
+.blockListContacts {
+  font: normal 1.25em Georgia, serif;
+  line-height: 1.5em;
 }
